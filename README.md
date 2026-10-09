@@ -66,7 +66,7 @@ python run_inference_agent.py \
 ```
 
 ## 👥 Authors
-* **Nicolò Morini** - [N1c0zz](https://github.com/N1c0zz)
+* **Nicolò Morini** - [nicomorini](https://github.com/nicomorini)
 * **Daria Vulcano** - [DariaVulc](https://github.com/DariaVulc)
 
 ## 📚 Acknowledgments
